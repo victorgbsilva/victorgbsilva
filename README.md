@@ -1,3 +1,11 @@
+<p align="left">🎯 Sobre mim
+
+Sou um entusiasta da tecnologia e apaixonado por como ela pode transformar ideias em soluções reais. Atualmente, estou cursando Engenharia de Software na Uni-FACEF, onde venho desenvolvendo habilidades técnicas e uma visão analítica voltada para resolver problemas com criatividade e eficiência.
+
+Além dos estudos, sou movido por desafios e aprendizado constante, seja explorando linguagens de programação, entendendo novas ferramentas ou trabalhando em projetos próprios. Fora do universo da tecnologia, tenho grande interesse por jogos eletrônicos e esportes, que me ensinam diariamente sobre estratégia, trabalho em equipe e foco.
+
+Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, crescer e contribuir.</p>
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
   <img width="50" />
