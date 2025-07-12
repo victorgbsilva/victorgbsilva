@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia e apaixonado por como ela pode transformar ideia
 Além dos estudos, sou movido por desafios e aprendizado constante, seja explorando linguagens de programação, entendendo novas ferramentas ou trabalhando em projetos próprios. Fora do universo da tecnologia, tenho grande interesse por jogos eletrônicos e esportes, que me ensinam diariamente sobre estratégia, trabalho em equipe e foco.
 
 Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, crescer e contribuir.</h3>
-                                                         ---------------------------------------------------------//---------------------------------------------------------
+<h1 align="center">---------------------------------------------------------//---------------------------------------------------------</h1>
 ###
 
 <div align="center">
