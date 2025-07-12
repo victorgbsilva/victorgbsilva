@@ -6,6 +6,7 @@ Além dos estudos, sou movido por desafios e aprendizado constante, seja explora
 
 Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, crescer e contribuir.</h3>
 <p align="center">---------------------------------------------------------//---------------------------------------------------------</p>
+
 ###
 
 <div align="center">
