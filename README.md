@@ -7,7 +7,7 @@ Além dos estudos, sou movido por desafios e aprendizado constante, seja explora
 Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, crescer e contribuir.</h3>
 
 ###
-<h1 align center>⚙ Tecnologias</h1>
+<h1 align="center">⚙ Tecnologias</h1>
 
 ###
 
@@ -32,7 +32,7 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgbsilva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="100" alt="languages graph"  />
 </div>
 
-<h1>📱 REDES SOCIAIS</h1>
+<h1 align="center">📱 Redes Socias</h1>
 
 ###
 
