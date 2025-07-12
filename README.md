@@ -1,4 +1,4 @@
-<h3 align="left">🎯 Sobre mim
+<h3 align="center">🎯 Sobre mim
 
 Sou um entusiasta da tecnologia e apaixonado por como ela pode transformar ideias em soluções reais. Atualmente, estou cursando Engenharia de Software na Uni-FACEF, onde venho desenvolvendo habilidades técnicas e uma visão analítica voltada para resolver problemas com criatividade e eficiência.
 
