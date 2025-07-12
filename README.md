@@ -1,12 +1,10 @@
-<h3 align="center">🎯 Sobre mim
+<h1 align="center">🎯 Sobre mim</h1>
 
-Sou um entusiasta da tecnologia e apaixonado por como ela pode transformar ideias em soluções reais. Atualmente, estou cursando Engenharia de Software na Uni-FACEF, onde venho desenvolvendo habilidades técnicas e uma visão analítica voltada para resolver problemas com criatividade e eficiência.
+<h3 align="center"> Sou um entusiasta da tecnologia e apaixonado por como ela pode transformar ideias em soluções reais. Atualmente, estou cursando Engenharia de Software na Uni-FACEF, onde venho desenvolvendo habilidades técnicas e uma visão analítica voltada para resolver problemas com criatividade e eficiência.
 
 Além dos estudos, sou movido por desafios e aprendizado constante, seja explorando linguagens de programação, entendendo novas ferramentas ou trabalhando em projetos próprios. Fora do universo da tecnologia, tenho grande interesse por jogos eletrônicos e esportes, que me ensinam diariamente sobre estratégia, trabalho em equipe e foco.
 
 Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, crescer e contribuir.</h3>
-
-<p align="center">---------------------------------------------------------//---------------------------------------------------------</p>
 
 ###
 <h1 align center>⚙ TECNOLOGIAS</h1>
@@ -27,16 +25,12 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="googlecloud logo"  />
 </div>
 
-<p align="center">---------------------------------------------------------//---------------------------------------------------------</p>
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgbsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgbsilva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="100" alt="languages graph"  />
 </div>
-
-<p align="center">---------------------------------------------------------//---------------------------------------------------------</p>
 
 <h1>📱 REDES SOCIAIS</h1>
 
@@ -52,8 +46,6 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-<p align="center">---------------------------------------------------------//---------------------------------------------------------</p>
 
 ###
 
