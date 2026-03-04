@@ -27,11 +27,6 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgbsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgbsilva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="100" alt="languages graph"  />
-</div>
-
 <h1 align="center">📱 Redes Socias</h1>
 
 ###
