@@ -47,14 +47,10 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-###
-###
 <br clear="both">
 <div align="center">
   <img height="150" src="https://pa1.aminoapps.com/7094/61a0f7dd0a3db2608cfdc46140deff3f544307f9r1-256-256_00.gif"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -62,4 +58,3 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
   <img height="150" src="https://media.tenor.com/lntC6IOfo-QAAAAj/mario-running.gif"  />
 </div>
 
-###
