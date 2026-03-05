@@ -57,3 +57,11 @@ Busco minha primeira oportunidade na área de tecnologia, pronto para aprender, 
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/lntC6IOfo-QAAAAj/mario-running.gif"  />
+</div>
+
+###
